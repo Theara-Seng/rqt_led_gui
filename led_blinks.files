@@ -1,0 +1,7 @@
+include/rqt_led_plugin/rqt_led_plugin_widget.h
+include/rqt_led_plugin/rqt_led_plugin.h
+src/rqt_led_plugin/rqt_led_plugin_widget.cpp
+src/rqt_led_plugin/rqt_led_plugin.cpp
+ui/rqt_led_plugin/rqt_led_plugin_widget.ui
+package.xml
+plugin.xml
