@@ -5,7 +5,7 @@ Using QT designer to create a GUI with two buttons "On" and "Off" to control the
 
 ![QT Designer](https://user-images.githubusercontent.com/38048071/153422928-10bc883f-2cc9-4108-8c0b-e8474ce528e4.png)
 
-## Then write the C++ in QT Creator in order to publish the data to the arduino as well as some configuration
+Then write the C++ in QT Creator in order to publish the data to the arduino as well as some configuration
 
 ## Then Run the plugin to the rqt as shown in Figure below
 
